@@ -1,0 +1,691 @@
+2026-02-17 14:01:08,988 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001c-no_edit.pdf
+2026-02-17 14:01:10,002 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001c-edit.pdf
+2026-02-17 14:01:11,061 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001d-no_edit.pdf
+2026-02-17 14:01:12,129 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001d-edit.pdf
+2026-02-17 14:01:12,929 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001e-no_edit.pdf
+2026-02-17 14:01:13,740 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001e-edit.pdf
+2026-02-17 14:01:14,761 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004b-no_edit.pdf
+2026-02-17 14:01:15,663 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004b-edit.pdf
+2026-02-17 14:01:16,872 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004c-no_edit.pdf
+2026-02-17 14:01:18,027 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004c-edit.pdf
+2026-02-17 14:01:19,019 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004d-no_edit.pdf
+2026-02-17 14:01:19,991 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004d-edit.pdf
+2026-02-17 14:01:20,869 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004e-no_edit.pdf
+2026-02-17 14:01:21,790 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004e-edit.pdf
+2026-02-17 14:01:23,147 - ERROR - Tiny PDF: jrp_section_pdfs/Ano1001d-no_edit.pdf
+2026-02-17 14:01:24,119 - ERROR - Tiny PDF: jrp_section_pdfs/Ano1001d-edit.pdf
+2026-02-17 14:01:26,289 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3002-no_edit.pdf
+2026-02-17 14:01:27,120 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3002-edit.pdf
+2026-02-17 14:01:29,774 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3091-no_edit.pdf
+2026-02-17 14:01:30,609 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3091-edit.pdf
+2026-02-17 14:01:33,257 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3150-no_edit.pdf
+2026-02-17 14:01:34,176 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3150-edit.pdf
+2026-02-17 14:01:35,203 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3153-no_edit.pdf
+2026-02-17 14:01:36,122 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3153-edit.pdf
+2026-02-17 14:01:38,663 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008a-no_edit.pdf
+2026-02-17 14:01:39,913 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008a-edit.pdf
+2026-02-17 14:01:41,569 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008b-no_edit.pdf
+2026-02-17 14:01:43,112 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008b-edit.pdf
+2026-02-17 14:01:45,047 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008d-no_edit.pdf
+2026-02-17 14:01:46,876 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008d-edit.pdf
+2026-02-17 14:01:47,762 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008e-no_edit.pdf
+2026-02-17 14:01:48,632 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008e-edit.pdf
+2026-02-17 14:01:50,154 - ERROR - Tiny PDF: jrp_section_pdfs/Bru2012-no_edit.pdf
+2026-02-17 14:01:51,537 - ERROR - Tiny PDF: jrp_section_pdfs/Bru2012-edit.pdf
+2026-02-17 14:01:53,635 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3008-no_edit.pdf
+2026-02-17 14:01:54,513 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3008-edit.pdf
+2026-02-17 14:01:56,080 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3019-no_edit.pdf
+2026-02-17 14:01:56,899 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3019-edit.pdf
+2026-02-17 14:01:58,530 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3030-no_edit.pdf
+2026-02-17 14:01:59,369 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3030-edit.pdf
+2026-02-17 14:02:00,714 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3040-no_edit.pdf
+2026-02-17 14:02:01,621 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3040-edit.pdf
+2026-02-17 14:02:02,690 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3044-no_edit.pdf
+2026-02-17 14:02:03,568 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3044-edit.pdf
+2026-02-17 14:02:06,204 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002a-no_edit.pdf
+2026-02-17 14:02:07,051 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002a-edit.pdf
+2026-02-17 14:02:07,970 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002b-no_edit.pdf
+2026-02-17 14:02:08,899 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002b-edit.pdf
+2026-02-17 14:02:09,961 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002e-no_edit.pdf
+2026-02-17 14:02:10,853 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002e-edit.pdf
+2026-02-17 14:02:12,027 - ERROR - Tiny PDF: jrp_section_pdfs/Com3028-no_edit.pdf
+2026-02-17 14:02:12,885 - ERROR - Tiny PDF: jrp_section_pdfs/Com3028-edit.pdf
+2026-02-17 14:02:13,806 - ERROR - Tiny PDF: jrp_section_pdfs/Com3029-no_edit.pdf
+2026-02-17 14:02:14,831 - ERROR - Tiny PDF: jrp_section_pdfs/Com3029-edit.pdf
+2026-02-17 14:02:15,725 - ERROR - Tiny PDF: jrp_section_pdfs/Com3030-no_edit.pdf
+2026-02-17 14:02:16,574 - ERROR - Tiny PDF: jrp_section_pdfs/Com3030-edit.pdf
+2026-02-17 14:02:17,760 - ERROR - Tiny PDF: jrp_section_pdfs/Com3035-no_edit.pdf
+2026-02-17 14:02:18,621 - ERROR - Tiny PDF: jrp_section_pdfs/Com3035-edit.pdf
+2026-02-17 14:02:19,532 - ERROR - Tiny PDF: jrp_section_pdfs/Com3037-no_edit.pdf
+2026-02-17 14:02:20,360 - ERROR - Tiny PDF: jrp_section_pdfs/Com3037-edit.pdf
+2026-02-17 14:02:21,524 - ERROR - Tiny PDF: jrp_section_pdfs/Com3042-no_edit.pdf
+2026-02-17 14:02:22,396 - ERROR - Tiny PDF: jrp_section_pdfs/Com3042-edit.pdf
+2026-02-17 14:02:23,237 - ERROR - Tiny PDF: jrp_section_pdfs/Com3043-no_edit.pdf
+2026-02-17 14:02:24,060 - ERROR - Tiny PDF: jrp_section_pdfs/Com3043-edit.pdf
+2026-02-17 14:02:25,328 - ERROR - Tiny PDF: jrp_section_pdfs/Com3049-no_edit.pdf
+2026-02-17 14:02:26,183 - ERROR - Tiny PDF: jrp_section_pdfs/Com3049-edit.pdf
+2026-02-17 14:02:27,939 - ERROR - Tiny PDF: jrp_section_pdfs/Das1002c-no_edit.pdf
+2026-02-17 14:02:29,245 - ERROR - Tiny PDF: jrp_section_pdfs/Das1002c-edit.pdf
+2026-02-17 14:02:31,326 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1004c-no_edit.pdf
+2026-02-17 14:02:32,241 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1004c-edit.pdf
+2026-02-17 14:02:33,419 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1005c-no_edit.pdf
+2026-02-17 14:02:35,261 - ERROR - Tiny PDF: jrp_section_pdfs/Duf3022-no_edit.pdf
+2026-02-17 14:02:36,128 - ERROR - Tiny PDF: jrp_section_pdfs/Duf3022-edit.pdf
+2026-02-17 14:02:38,795 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102c-no_edit.pdf
+2026-02-17 14:02:39,817 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102c-edit.pdf
+2026-02-17 14:02:40,669 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102d-no_edit.pdf
+2026-02-17 14:02:41,558 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102d-edit.pdf
+2026-02-17 14:02:42,787 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0103c-no_edit.pdf
+2026-02-17 14:02:43,811 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0103c-edit.pdf
+2026-02-17 14:02:45,038 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0104b-no_edit.pdf
+2026-02-17 14:02:45,963 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0104b-edit.pdf
+2026-02-17 14:02:47,191 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0201b-no_edit.pdf
+2026-02-17 14:02:48,112 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0201b-edit.pdf
+2026-02-17 14:02:49,813 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203c-no_edit.pdf
+2026-02-17 14:02:50,692 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203c-edit.pdf
+2026-02-17 14:02:51,592 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203d-no_edit.pdf
+2026-02-17 14:02:52,426 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203d-edit.pdf
+2026-02-17 14:02:53,415 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0204b-no_edit.pdf
+2026-02-17 14:02:54,254 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0204b-edit.pdf
+2026-02-17 14:02:56,786 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0303g-no_edit.pdf
+2026-02-17 14:02:57,592 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0303g-edit.pdf
+2026-02-17 14:02:58,396 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0303h-no_edit.pdf
+2026-02-17 14:02:59,190 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0303h-edit.pdf
+2026-02-17 14:03:00,118 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0402-no_edit.pdf
+2026-02-17 14:03:00,946 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0402-edit.pdf
+2026-02-17 14:03:01,831 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0403-no_edit.pdf
+2026-02-17 14:03:02,687 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0403-edit.pdf
+2026-02-17 14:03:04,018 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0409-no_edit.pdf
+2026-02-17 14:03:04,814 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0409-edit.pdf
+2026-02-17 14:03:06,754 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0501b-edit.pdf
+2026-02-17 14:03:07,978 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0502-no_edit.pdf
+2026-02-17 14:03:09,001 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0502-edit.pdf
+2026-02-17 14:03:10,278 - ERROR - Tiny PDF: jrp_section_pdfs/Jap3001-no_edit.pdf
+2026-02-17 14:03:11,099 - ERROR - Tiny PDF: jrp_section_pdfs/Jap3001-edit.pdf
+2026-02-17 14:03:13,805 - ERROR - Tiny PDF: jrp_section_pdfs/Jos0301b-edit.pdf
+2026-02-17 14:03:20,165 - ERROR - Tiny PDF: jrp_section_pdfs/Jos0703d-no_edit.pdf
+2026-02-17 14:03:40,236 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2605-no_edit.pdf
+2026-02-17 14:03:41,572 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2605-edit.pdf
+2026-02-17 14:03:45,380 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2728-no_edit.pdf
+2026-02-17 14:03:46,246 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2728-edit.pdf
+2026-02-17 14:03:51,799 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2913-no_edit.pdf
+2026-02-17 14:03:52,747 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2913-edit.pdf
+2026-02-17 14:03:58,870 - ERROR - Tiny PDF: jrp_section_pdfs/Mar1004b-no_edit.pdf
+2026-02-17 14:04:10,065 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002c-no_edit.pdf
+2026-02-17 14:04:10,954 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002c-edit.pdf
+2026-02-17 14:04:11,752 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002d-no_edit.pdf
+2026-02-17 14:04:12,594 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002d-edit.pdf
+2026-02-17 14:04:13,618 - ERROR - Tiny PDF: jrp_section_pdfs/Obr2010-no_edit.pdf
+2026-02-17 14:04:14,415 - ERROR - Tiny PDF: jrp_section_pdfs/Obr2010-edit.pdf
+2026-02-17 14:04:20,866 - ERROR - Tiny PDF: jrp_section_pdfs/Oke1013e-no_edit.pdf
+2026-02-17 14:04:21,657 - ERROR - Tiny PDF: jrp_section_pdfs/Oke1013e-edit.pdf
+2026-02-17 14:04:27,545 - ERROR - Tiny PDF: jrp_section_pdfs/Ort2004-no_edit.pdf
+2026-02-17 14:04:28,405 - ERROR - Tiny PDF: jrp_section_pdfs/Ort2004-edit.pdf
+2026-02-17 14:04:30,923 - ERROR - Tiny PDF: jrp_section_pdfs/Reg2006-no_edit.pdf
+2026-02-17 14:04:32,401 - ERROR - Tiny PDF: jrp_section_pdfs/Rue1002d-no_edit.pdf
+2026-02-17 14:04:33,384 - ERROR - Tiny PDF: jrp_section_pdfs/Rue1002d-edit.pdf
+2026-02-17 14:04:51,911 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001c-no_edit.pdf
+2026-02-17 14:04:51,911 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001d-no_edit.pdf
+2026-02-17 14:04:51,911 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001e-no_edit.pdf
+2026-02-17 14:04:52,129 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001c-edit.pdf
+2026-02-17 14:04:52,129 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001d-edit.pdf
+2026-02-17 14:04:52,129 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001e-edit.pdf
+2026-02-17 14:04:52,306 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004b-no_edit.pdf
+2026-02-17 14:04:52,306 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004c-no_edit.pdf
+2026-02-17 14:04:52,306 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004d-no_edit.pdf
+2026-02-17 14:04:52,306 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004e-no_edit.pdf
+2026-02-17 14:04:52,306 - WARNING - Not enough valid sections to merge Agr1004-no_edit
+2026-02-17 14:04:52,346 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004b-edit.pdf
+2026-02-17 14:04:52,346 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004c-edit.pdf
+2026-02-17 14:04:52,346 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004d-edit.pdf
+2026-02-17 14:04:52,346 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004e-edit.pdf
+2026-02-17 14:04:52,346 - WARNING - Not enough valid sections to merge Agr1004-edit
+2026-02-17 14:04:52,461 - WARNING - Skipping corrupt section: jrp_section_pdfs/Ano1001d-no_edit.pdf
+2026-02-17 14:04:52,749 - WARNING - Skipping corrupt section: jrp_section_pdfs/Ano1001d-edit.pdf
+2026-02-17 14:04:52,960 - WARNING - Not enough valid sections to merge Ano1002-no_edit
+2026-02-17 14:04:53,000 - WARNING - Not enough valid sections to merge Ano1002-edit
+2026-02-17 14:04:54,669 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008a-no_edit.pdf
+2026-02-17 14:04:54,669 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008b-no_edit.pdf
+2026-02-17 14:04:54,709 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008d-no_edit.pdf
+2026-02-17 14:04:54,709 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008e-no_edit.pdf
+2026-02-17 14:04:54,709 - WARNING - Not enough valid sections to merge Bru1008-no_edit
+2026-02-17 14:04:54,709 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008a-edit.pdf
+2026-02-17 14:04:54,709 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008b-edit.pdf
+2026-02-17 14:04:54,751 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008d-edit.pdf
+2026-02-17 14:04:54,751 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008e-edit.pdf
+2026-02-17 14:04:54,751 - WARNING - Not enough valid sections to merge Bru1008-edit
+2026-02-17 14:04:54,791 - WARNING - Not enough valid sections to merge Bru1011-no_edit
+2026-02-17 14:04:54,831 - WARNING - Not enough valid sections to merge Bru1011-edit
+2026-02-17 14:04:55,528 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002a-no_edit.pdf
+2026-02-17 14:04:55,528 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002b-no_edit.pdf
+2026-02-17 14:04:55,604 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002e-no_edit.pdf
+2026-02-17 14:04:55,733 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002a-edit.pdf
+2026-02-17 14:04:55,733 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002b-edit.pdf
+2026-02-17 14:04:55,808 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002e-edit.pdf
+2026-02-17 14:04:56,017 - WARNING - Skipping corrupt section: jrp_section_pdfs/Das1002c-no_edit.pdf
+2026-02-17 14:04:56,349 - WARNING - Skipping corrupt section: jrp_section_pdfs/Das1002c-edit.pdf
+2026-02-17 14:04:58,193 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1004c-no_edit.pdf
+2026-02-17 14:04:58,508 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1004c-edit.pdf
+2026-02-17 14:04:58,837 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1005c-no_edit.pdf
+2026-02-17 14:05:01,035 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102c-no_edit.pdf
+2026-02-17 14:05:01,036 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102d-no_edit.pdf
+2026-02-17 14:05:01,281 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102c-edit.pdf
+2026-02-17 14:05:01,282 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102d-edit.pdf
+2026-02-17 14:05:01,527 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0103c-no_edit.pdf
+2026-02-17 14:05:01,842 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0103c-edit.pdf
+2026-02-17 14:05:02,113 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0104b-no_edit.pdf
+2026-02-17 14:05:02,439 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0104b-edit.pdf
+2026-02-17 14:05:02,762 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0201b-no_edit.pdf
+2026-02-17 14:05:03,054 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0201b-edit.pdf
+2026-02-17 14:05:04,110 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203c-no_edit.pdf
+2026-02-17 14:05:04,110 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203d-no_edit.pdf
+2026-02-17 14:05:04,336 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203c-edit.pdf
+2026-02-17 14:05:04,337 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203d-edit.pdf
+2026-02-17 14:05:04,525 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0204b-no_edit.pdf
+2026-02-17 14:05:04,866 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0204b-edit.pdf
+2026-02-17 14:05:05,184 - WARNING - Not enough valid sections to merge Gas0205-no_edit
+2026-02-17 14:05:05,225 - WARNING - Not enough valid sections to merge Gas0205-edit
+2026-02-17 14:05:05,267 - WARNING - Not enough valid sections to merge Gas0206-no_edit
+2026-02-17 14:05:05,309 - WARNING - Not enough valid sections to merge Gas0206-edit
+2026-02-17 14:05:05,349 - WARNING - Not enough valid sections to merge Isa1038-no_edit
+2026-02-17 14:05:05,387 - WARNING - Not enough valid sections to merge Isa1038-edit
+2026-02-17 14:05:05,427 - WARNING - Not enough valid sections to merge Isa1039-no_edit
+2026-02-17 14:05:05,470 - WARNING - Not enough valid sections to merge Isa1039-edit
+2026-02-17 14:05:05,517 - WARNING - Not enough valid sections to merge Isa1040-no_edit
+2026-02-17 14:05:05,557 - WARNING - Not enough valid sections to merge Isa1040-edit
+2026-02-17 14:05:05,597 - WARNING - Not enough valid sections to merge Isa1041-no_edit
+2026-02-17 14:05:05,637 - WARNING - Not enough valid sections to merge Isa1041-edit
+2026-02-17 14:05:06,039 - WARNING - Skipping corrupt section: jrp_section_pdfs/Jos0301b-edit.pdf
+2026-02-17 14:05:15,815 - WARNING - Skipping corrupt section: jrp_section_pdfs/Jos0703d-no_edit.pdf
+2026-02-17 14:05:26,204 - WARNING - Not enough valid sections to merge Jos1301-no_edit
+2026-02-17 14:05:26,242 - WARNING - Not enough valid sections to merge Jos1301-edit
+2026-02-17 14:05:26,280 - WARNING - Not enough valid sections to merge Jos1302-no_edit
+2026-02-17 14:05:26,319 - WARNING - Not enough valid sections to merge Jos1302-edit
+2026-02-17 14:05:26,359 - WARNING - Not enough valid sections to merge Jos1303-no_edit
+2026-02-17 14:05:26,398 - WARNING - Not enough valid sections to merge Jos1303-edit
+2026-02-17 14:05:26,437 - WARNING - Not enough valid sections to merge Jos1304-no_edit
+2026-02-17 14:05:26,475 - WARNING - Not enough valid sections to merge Jos1304-edit
+2026-02-17 14:05:26,514 - WARNING - Not enough valid sections to merge Jos1305-no_edit
+2026-02-17 14:05:26,552 - WARNING - Not enough valid sections to merge Jos1305-edit
+2026-02-17 14:05:26,591 - WARNING - Not enough valid sections to merge Jos1306-no_edit
+2026-02-17 14:05:26,630 - WARNING - Not enough valid sections to merge Jos1306-edit
+2026-02-17 14:05:26,673 - WARNING - Not enough valid sections to merge Jos1307-no_edit
+2026-02-17 14:05:26,714 - WARNING - Not enough valid sections to merge Jos1307-edit
+2026-02-17 14:05:26,755 - WARNING - Not enough valid sections to merge Jos1308-no_edit
+2026-02-17 14:05:26,798 - WARNING - Not enough valid sections to merge Jos1308-edit
+2026-02-17 14:05:26,838 - WARNING - Not enough valid sections to merge Jos1309-no_edit
+2026-02-17 14:05:26,881 - WARNING - Not enough valid sections to merge Jos1309-edit
+2026-02-17 14:05:26,920 - WARNING - Not enough valid sections to merge Jos1310-no_edit
+2026-02-17 14:05:26,959 - WARNING - Not enough valid sections to merge Jos1310-edit
+2026-02-17 14:05:26,997 - WARNING - Not enough valid sections to merge Jos1311-no_edit
+2026-02-17 14:05:27,035 - WARNING - Not enough valid sections to merge Jos1311-edit
+2026-02-17 14:05:27,073 - WARNING - Not enough valid sections to merge Jos1312-no_edit
+2026-02-17 14:05:27,112 - WARNING - Not enough valid sections to merge Jos1312-edit
+2026-02-17 14:05:27,151 - WARNING - Not enough valid sections to merge Jos1313-no_edit
+2026-02-17 14:05:27,189 - WARNING - Not enough valid sections to merge Jos1313-edit
+2026-02-17 14:05:27,228 - WARNING - Not enough valid sections to merge Jos1314-no_edit
+2026-02-17 14:05:27,268 - WARNING - Not enough valid sections to merge Jos1314-edit
+2026-02-17 14:05:28,015 - WARNING - Not enough valid sections to merge Jos9906-no_edit
+2026-02-17 14:05:28,054 - WARNING - Not enough valid sections to merge Jos9906-edit
+2026-02-17 14:05:28,093 - WARNING - Not enough valid sections to merge Jos9915-no_edit
+2026-02-17 14:05:28,131 - WARNING - Not enough valid sections to merge Jos9915-edit
+2026-02-17 14:05:28,169 - WARNING - Not enough valid sections to merge Jos9922-no_edit
+2026-02-17 14:05:28,207 - WARNING - Not enough valid sections to merge Jos9922-edit
+2026-02-17 14:05:30,412 - WARNING - Skipping corrupt section: jrp_section_pdfs/Mar1004b-no_edit.pdf
+2026-02-17 14:05:35,082 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002c-no_edit.pdf
+2026-02-17 14:05:35,082 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002d-no_edit.pdf
+2026-02-17 14:05:35,337 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002c-edit.pdf
+2026-02-17 14:05:35,338 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002d-edit.pdf
+2026-02-17 14:05:35,548 - WARNING - Not enough valid sections to merge Obr1007-no_edit
+2026-02-17 14:05:35,586 - WARNING - Not enough valid sections to merge Obr1007-edit
+2026-02-17 14:05:44,530 - WARNING - Skipping corrupt section: jrp_section_pdfs/Oke1013e-no_edit.pdf
+2026-02-17 14:05:44,853 - WARNING - Skipping corrupt section: jrp_section_pdfs/Oke1013e-edit.pdf
+2026-02-17 14:05:45,042 - WARNING - Not enough valid sections to merge Oke1014-no_edit
+2026-02-17 14:05:45,086 - WARNING - Not enough valid sections to merge Oke1014-edit
+2026-02-17 14:05:50,503 - WARNING - Not enough valid sections to merge Ort1007-no_edit
+2026-02-17 14:05:50,585 - WARNING - Not enough valid sections to merge Ort1007-edit
+2026-02-17 14:05:50,662 - WARNING - Not enough valid sections to merge Ort1008-no_edit
+2026-02-17 14:05:50,743 - WARNING - Not enough valid sections to merge Ort1008-edit
+2026-02-17 14:05:50,796 - WARNING - Not enough valid sections to merge Ort1009-no_edit
+2026-02-17 14:05:50,842 - WARNING - Not enough valid sections to merge Ort1009-edit
+2026-02-17 14:05:52,500 - WARNING - Skipping corrupt section: jrp_section_pdfs/Rue1002d-no_edit.pdf
+2026-02-17 14:05:52,869 - WARNING - Skipping corrupt section: jrp_section_pdfs/Rue1002d-edit.pdf
+2026-02-17 14:06:14,820 - WARNING - Not enough valid sections to merge Rue1032-no_edit
+2026-02-17 14:06:14,862 - WARNING - Not enough valid sections to merge Rue1032-edit
+2026-02-17 14:06:14,903 - WARNING - Not enough valid sections to merge Rue1033-no_edit
+2026-02-17 14:06:14,944 - WARNING - Not enough valid sections to merge Rue1033-edit
+2026-02-17 14:06:14,983 - WARNING - Not enough valid sections to merge Rue1034-no_edit
+2026-02-17 14:06:15,022 - WARNING - Not enough valid sections to merge Rue1034-edit
+2026-02-17 14:06:15,063 - WARNING - Not enough valid sections to merge Rue1036-no_edit
+2026-02-17 14:06:15,102 - WARNING - Not enough valid sections to merge Rue1036-edit
+2026-02-17 14:06:15,140 - WARNING - Not enough valid sections to merge Rue1037-no_edit
+2026-02-17 14:06:15,179 - WARNING - Not enough valid sections to merge Rue1037-edit
+2026-02-17 18:45:58,257 - ERROR - Download failed jrp_section_pdfs/Agr1001c-no_edit.pdf: HTTPSConnectionPool(host='josquin.stanford.edu', port=443): Max retries exceeded with url: /cgi-bin/jrp?a=notationNoEditText&f=Agr1001c (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4787658e0>, 'Connection to josquin.stanford.edu timed out. (connect timeout=30)'))
+2026-02-17 18:46:28,296 - ERROR - Download failed jrp_section_pdfs/Agr1001c-edit.pdf: HTTPSConnectionPool(host='josquin.stanford.edu', port=443): Max retries exceeded with url: /cgi-bin/jrp?a=notationEditText&f=Agr1001c (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa478765fa0>, 'Connection to josquin.stanford.edu timed out. (connect timeout=30)'))
+2026-02-17 18:46:58,308 - ERROR - Download failed jrp_section_pdfs/Agr1001d-no_edit.pdf: HTTPSConnectionPool(host='josquin.stanford.edu', port=443): Max retries exceeded with url: /cgi-bin/jrp?a=notationNoEditText&f=Agr1001d (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4785e4760>, 'Connection to josquin.stanford.edu timed out. (connect timeout=30)'))
+2026-02-17 18:47:28,320 - ERROR - Download failed jrp_section_pdfs/Agr1001d-edit.pdf: HTTPSConnectionPool(host='josquin.stanford.edu', port=443): Max retries exceeded with url: /cgi-bin/jrp?a=notationEditText&f=Agr1001d (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4785e4ee0>, 'Connection to josquin.stanford.edu timed out. (connect timeout=30)'))
+2026-02-17 18:47:58,456 - ERROR - Download failed jrp_section_pdfs/Agr1004b-no_edit.pdf: HTTPSConnectionPool(host='josquin.stanford.edu', port=443): Max retries exceeded with url: /cgi-bin/jrp?a=notationNoEditText&f=Agr1004b (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4785ed6d0>, 'Connection to josquin.stanford.edu timed out. (connect timeout=30)'))
+2026-02-17 18:48:28,469 - ERROR - Download failed jrp_section_pdfs/Agr1004b-edit.pdf: HTTPSConnectionPool(host='josquin.stanford.edu', port=443): Max retries exceeded with url: /cgi-bin/jrp?a=notationEditText&f=Agr1004b (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4785ede50>, 'Connection to josquin.stanford.edu timed out. (connect timeout=30)'))
+2026-02-18 09:58:27,497 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001c-no_edit.pdf
+2026-02-18 09:58:28,519 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001c-edit.pdf
+2026-02-18 09:58:29,592 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001d-no_edit.pdf
+2026-02-18 09:58:30,646 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001d-edit.pdf
+2026-02-18 09:58:31,671 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004b-no_edit.pdf
+2026-02-18 09:58:32,607 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004b-edit.pdf
+2026-02-18 09:58:33,750 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004c-no_edit.pdf
+2026-02-18 09:58:34,972 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004c-edit.pdf
+2026-02-18 09:58:36,098 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004d-no_edit.pdf
+2026-02-18 09:58:37,121 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004d-edit.pdf
+2026-02-18 09:58:38,142 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004e-no_edit.pdf
+2026-02-18 09:58:39,169 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004e-edit.pdf
+2026-02-18 09:58:40,602 - ERROR - Tiny PDF: jrp_section_pdfs/Ano1001d-no_edit.pdf
+2026-02-18 09:58:41,629 - ERROR - Tiny PDF: jrp_section_pdfs/Ano1001d-edit.pdf
+2026-02-18 09:58:43,939 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3002-no_edit.pdf
+2026-02-18 09:58:44,787 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3002-edit.pdf
+2026-02-18 09:58:47,465 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3091-no_edit.pdf
+2026-02-18 09:58:48,383 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3091-edit.pdf
+2026-02-18 09:58:50,959 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3150-no_edit.pdf
+2026-02-18 09:58:51,865 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3150-edit.pdf
+2026-02-18 09:58:57,209 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008a-no_edit.pdf
+2026-02-18 09:58:58,419 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008a-edit.pdf
+2026-02-18 09:59:00,025 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008b-no_edit.pdf
+2026-02-18 09:59:01,583 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008b-edit.pdf
+2026-02-18 09:59:03,542 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008d-no_edit.pdf
+2026-02-18 09:59:05,350 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008d-edit.pdf
+2026-02-18 09:59:06,252 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008e-no_edit.pdf
+2026-02-18 09:59:07,154 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008e-edit.pdf
+2026-02-18 09:59:08,607 - ERROR - Tiny PDF: jrp_section_pdfs/Bru2012-no_edit.pdf
+2026-02-18 09:59:09,937 - ERROR - Tiny PDF: jrp_section_pdfs/Bru2012-edit.pdf
+2026-02-18 09:59:12,042 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3008-no_edit.pdf
+2026-02-18 09:59:12,957 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3008-edit.pdf
+2026-02-18 09:59:14,515 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3019-no_edit.pdf
+2026-02-18 09:59:15,419 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3019-edit.pdf
+2026-02-18 09:59:20,316 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3040-no_edit.pdf
+2026-02-18 09:59:21,158 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3040-edit.pdf
+2026-02-18 09:59:22,263 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3044-no_edit.pdf
+2026-02-18 09:59:23,080 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3044-edit.pdf
+2026-02-18 09:59:25,626 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002a-no_edit.pdf
+2026-02-18 09:59:26,478 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002a-edit.pdf
+2026-02-18 09:59:27,342 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002b-no_edit.pdf
+2026-02-18 09:59:28,302 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002b-edit.pdf
+2026-02-18 09:59:29,449 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002e-no_edit.pdf
+2026-02-18 09:59:30,361 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002e-edit.pdf
+2026-02-18 09:59:31,599 - ERROR - Tiny PDF: jrp_section_pdfs/Com3028-no_edit.pdf
+2026-02-18 09:59:32,520 - ERROR - Tiny PDF: jrp_section_pdfs/Com3028-edit.pdf
+2026-02-18 09:59:33,441 - ERROR - Tiny PDF: jrp_section_pdfs/Com3029-no_edit.pdf
+2026-02-18 09:59:34,309 - ERROR - Tiny PDF: jrp_section_pdfs/Com3029-edit.pdf
+2026-02-18 09:59:35,141 - ERROR - Tiny PDF: jrp_section_pdfs/Com3030-no_edit.pdf
+2026-02-18 09:59:35,969 - ERROR - Tiny PDF: jrp_section_pdfs/Com3030-edit.pdf
+2026-02-18 09:59:37,107 - ERROR - Tiny PDF: jrp_section_pdfs/Com3035-no_edit.pdf
+2026-02-18 09:59:37,942 - ERROR - Tiny PDF: jrp_section_pdfs/Com3035-edit.pdf
+2026-02-18 09:59:41,740 - ERROR - Tiny PDF: jrp_section_pdfs/Com3042-no_edit.pdf
+2026-02-18 09:59:42,633 - ERROR - Tiny PDF: jrp_section_pdfs/Com3042-edit.pdf
+2026-02-18 09:59:43,477 - ERROR - Tiny PDF: jrp_section_pdfs/Com3043-no_edit.pdf
+2026-02-18 09:59:44,310 - ERROR - Tiny PDF: jrp_section_pdfs/Com3043-edit.pdf
+2026-02-18 09:59:45,604 - ERROR - Tiny PDF: jrp_section_pdfs/Com3049-no_edit.pdf
+2026-02-18 09:59:46,441 - ERROR - Tiny PDF: jrp_section_pdfs/Com3049-edit.pdf
+2026-02-18 09:59:48,149 - ERROR - Tiny PDF: jrp_section_pdfs/Das1002c-no_edit.pdf
+2026-02-18 09:59:49,417 - ERROR - Tiny PDF: jrp_section_pdfs/Das1002c-edit.pdf
+2026-02-18 09:59:51,566 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1004c-no_edit.pdf
+2026-02-18 09:59:52,556 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1004c-edit.pdf
+2026-02-18 09:59:53,821 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1005c-no_edit.pdf
+2026-02-18 09:59:55,764 - ERROR - Tiny PDF: jrp_section_pdfs/Duf3022-no_edit.pdf
+2026-02-18 09:59:56,564 - ERROR - Tiny PDF: jrp_section_pdfs/Duf3022-edit.pdf
+2026-02-18 09:59:59,247 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102c-no_edit.pdf
+2026-02-18 10:00:00,236 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102c-edit.pdf
+2026-02-18 10:00:01,193 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102d-no_edit.pdf
+2026-02-18 10:00:02,070 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102d-edit.pdf
+2026-02-18 10:00:03,257 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0103c-no_edit.pdf
+2026-02-18 10:00:04,264 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0103c-edit.pdf
+2026-02-18 10:00:05,476 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0104b-no_edit.pdf
+2026-02-18 10:00:06,411 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0104b-edit.pdf
+2026-02-18 10:00:07,614 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0201b-no_edit.pdf
+2026-02-18 10:00:08,449 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0201b-edit.pdf
+2026-02-18 10:00:10,202 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203c-no_edit.pdf
+2026-02-18 10:00:11,127 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203c-edit.pdf
+2026-02-18 10:00:12,027 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203d-no_edit.pdf
+2026-02-18 10:00:12,880 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203d-edit.pdf
+2026-02-18 10:00:13,859 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0204b-no_edit.pdf
+2026-02-18 10:00:14,669 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0204b-edit.pdf
+2026-02-18 10:00:34,813 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0402-no_edit.pdf
+2026-02-18 10:00:35,636 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0402-edit.pdf
+2026-02-18 10:00:36,520 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0403-no_edit.pdf
+2026-02-18 10:00:37,378 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0403-edit.pdf
+2026-02-18 10:00:38,678 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0409-no_edit.pdf
+2026-02-18 10:00:39,503 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0409-edit.pdf
+2026-02-18 10:00:41,415 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0501b-edit.pdf
+2026-02-18 10:00:42,669 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0502-no_edit.pdf
+2026-02-18 10:00:43,587 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0502-edit.pdf
+2026-02-18 10:00:44,863 - ERROR - Tiny PDF: jrp_section_pdfs/Jap3001-no_edit.pdf
+2026-02-18 10:00:45,702 - ERROR - Tiny PDF: jrp_section_pdfs/Jap3001-edit.pdf
+2026-02-18 10:00:48,424 - ERROR - Tiny PDF: jrp_section_pdfs/Jos0301b-edit.pdf
+2026-02-18 10:00:54,645 - ERROR - Tiny PDF: jrp_section_pdfs/Jos0703d-no_edit.pdf
+2026-02-18 10:01:14,269 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2605-no_edit.pdf
+2026-02-18 10:01:15,587 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2605-edit.pdf
+2026-02-18 10:01:19,321 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2728-no_edit.pdf
+2026-02-18 10:01:20,246 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2728-edit.pdf
+2026-02-18 10:01:25,776 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2913-no_edit.pdf
+2026-02-18 10:01:26,739 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2913-edit.pdf
+2026-02-18 10:01:32,760 - ERROR - Tiny PDF: jrp_section_pdfs/Mar1004b-no_edit.pdf
+2026-02-18 10:01:43,695 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002c-no_edit.pdf
+2026-02-18 10:01:44,574 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002c-edit.pdf
+2026-02-18 10:01:45,437 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002d-no_edit.pdf
+2026-02-18 10:01:46,242 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002d-edit.pdf
+2026-02-18 10:01:47,255 - ERROR - Tiny PDF: jrp_section_pdfs/Obr2010-no_edit.pdf
+2026-02-18 10:01:48,056 - ERROR - Tiny PDF: jrp_section_pdfs/Obr2010-edit.pdf
+2026-02-18 10:01:54,358 - ERROR - Tiny PDF: jrp_section_pdfs/Oke1013e-no_edit.pdf
+2026-02-18 10:01:55,265 - ERROR - Tiny PDF: jrp_section_pdfs/Oke1013e-edit.pdf
+2026-02-18 10:02:01,105 - ERROR - Tiny PDF: jrp_section_pdfs/Ort2004-no_edit.pdf
+2026-02-18 10:02:01,964 - ERROR - Tiny PDF: jrp_section_pdfs/Ort2004-edit.pdf
+2026-02-18 10:02:04,484 - ERROR - Tiny PDF: jrp_section_pdfs/Reg2006-no_edit.pdf
+2026-02-18 10:02:05,974 - ERROR - Tiny PDF: jrp_section_pdfs/Rue1002d-no_edit.pdf
+2026-02-18 10:02:06,970 - ERROR - Tiny PDF: jrp_section_pdfs/Rue1002d-edit.pdf
+2026-02-18 10:02:22,749 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001c-no_edit.pdf
+2026-02-18 10:02:22,750 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001d-no_edit.pdf
+2026-02-18 10:02:23,104 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001c-edit.pdf
+2026-02-18 10:02:23,104 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001d-edit.pdf
+2026-02-18 10:02:23,276 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004b-no_edit.pdf
+2026-02-18 10:02:23,277 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004c-no_edit.pdf
+2026-02-18 10:02:23,277 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004d-no_edit.pdf
+2026-02-18 10:02:23,277 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004e-no_edit.pdf
+2026-02-18 10:02:23,277 - WARNING - Not enough valid sections to merge Agr1004-no_edit
+2026-02-18 10:02:23,315 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004b-edit.pdf
+2026-02-18 10:02:23,316 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004c-edit.pdf
+2026-02-18 10:02:23,316 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004d-edit.pdf
+2026-02-18 10:02:23,316 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004e-edit.pdf
+2026-02-18 10:02:23,316 - WARNING - Not enough valid sections to merge Agr1004-edit
+2026-02-18 10:02:23,428 - WARNING - Skipping corrupt section: jrp_section_pdfs/Ano1001d-no_edit.pdf
+2026-02-18 10:02:23,708 - WARNING - Skipping corrupt section: jrp_section_pdfs/Ano1001d-edit.pdf
+2026-02-18 10:02:23,908 - WARNING - Not enough valid sections to merge Ano1002-no_edit
+2026-02-18 10:02:23,947 - WARNING - Not enough valid sections to merge Ano1002-edit
+2026-02-18 10:02:25,577 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008a-no_edit.pdf
+2026-02-18 10:02:25,592 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008b-no_edit.pdf
+2026-02-18 10:02:25,630 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008d-no_edit.pdf
+2026-02-18 10:02:25,630 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008e-no_edit.pdf
+2026-02-18 10:02:25,630 - WARNING - Not enough valid sections to merge Bru1008-no_edit
+2026-02-18 10:02:25,630 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008a-edit.pdf
+2026-02-18 10:02:25,630 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008b-edit.pdf
+2026-02-18 10:02:25,668 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008d-edit.pdf
+2026-02-18 10:02:25,672 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008e-edit.pdf
+2026-02-18 10:02:25,672 - WARNING - Not enough valid sections to merge Bru1008-edit
+2026-02-18 10:02:25,709 - WARNING - Not enough valid sections to merge Bru1011-no_edit
+2026-02-18 10:02:25,746 - WARNING - Not enough valid sections to merge Bru1011-edit
+2026-02-18 10:02:26,438 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002a-no_edit.pdf
+2026-02-18 10:02:26,438 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002b-no_edit.pdf
+2026-02-18 10:02:26,521 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002e-no_edit.pdf
+2026-02-18 10:02:26,649 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002a-edit.pdf
+2026-02-18 10:02:26,650 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002b-edit.pdf
+2026-02-18 10:02:26,725 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002e-edit.pdf
+2026-02-18 10:02:26,926 - WARNING - Skipping corrupt section: jrp_section_pdfs/Das1002c-no_edit.pdf
+2026-02-18 10:02:27,254 - WARNING - Skipping corrupt section: jrp_section_pdfs/Das1002c-edit.pdf
+2026-02-18 10:02:29,096 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1004c-no_edit.pdf
+2026-02-18 10:02:29,418 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1004c-edit.pdf
+2026-02-18 10:02:29,758 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1005c-no_edit.pdf
+2026-02-18 10:02:31,938 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102c-no_edit.pdf
+2026-02-18 10:02:31,938 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102d-no_edit.pdf
+2026-02-18 10:02:32,182 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102c-edit.pdf
+2026-02-18 10:02:32,182 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102d-edit.pdf
+2026-02-18 10:02:32,431 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0103c-no_edit.pdf
+2026-02-18 10:02:32,732 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0103c-edit.pdf
+2026-02-18 10:02:33,003 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0104b-no_edit.pdf
+2026-02-18 10:02:33,305 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0104b-edit.pdf
+2026-02-18 10:02:33,608 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0201b-no_edit.pdf
+2026-02-18 10:02:33,900 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0201b-edit.pdf
+2026-02-18 10:02:34,951 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203c-no_edit.pdf
+2026-02-18 10:02:34,951 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203d-no_edit.pdf
+2026-02-18 10:02:35,179 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203c-edit.pdf
+2026-02-18 10:02:35,179 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203d-edit.pdf
+2026-02-18 10:02:35,367 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0204b-no_edit.pdf
+2026-02-18 10:02:35,664 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0204b-edit.pdf
+2026-02-18 10:02:35,963 - WARNING - Not enough valid sections to merge Gas0205-no_edit
+2026-02-18 10:02:36,002 - WARNING - Not enough valid sections to merge Gas0205-edit
+2026-02-18 10:02:36,042 - WARNING - Not enough valid sections to merge Gas0206-no_edit
+2026-02-18 10:02:36,083 - WARNING - Not enough valid sections to merge Gas0206-edit
+2026-02-18 10:02:36,123 - WARNING - Not enough valid sections to merge Isa1038-no_edit
+2026-02-18 10:02:36,162 - WARNING - Not enough valid sections to merge Isa1038-edit
+2026-02-18 10:02:36,201 - WARNING - Not enough valid sections to merge Isa1039-no_edit
+2026-02-18 10:02:36,242 - WARNING - Not enough valid sections to merge Isa1039-edit
+2026-02-18 10:02:36,280 - WARNING - Not enough valid sections to merge Isa1040-no_edit
+2026-02-18 10:02:36,319 - WARNING - Not enough valid sections to merge Isa1040-edit
+2026-02-18 10:02:36,358 - WARNING - Not enough valid sections to merge Isa1041-no_edit
+2026-02-18 10:02:36,397 - WARNING - Not enough valid sections to merge Isa1041-edit
+2026-02-18 10:02:36,775 - WARNING - Skipping corrupt section: jrp_section_pdfs/Jos0301b-edit.pdf
+2026-02-18 10:02:46,244 - WARNING - Skipping corrupt section: jrp_section_pdfs/Jos0703d-no_edit.pdf
+2026-02-18 10:02:56,218 - WARNING - Not enough valid sections to merge Jos1301-no_edit
+2026-02-18 10:02:56,258 - WARNING - Not enough valid sections to merge Jos1301-edit
+2026-02-18 10:02:56,299 - WARNING - Not enough valid sections to merge Jos1302-no_edit
+2026-02-18 10:02:56,339 - WARNING - Not enough valid sections to merge Jos1302-edit
+2026-02-18 10:02:56,377 - WARNING - Not enough valid sections to merge Jos1303-no_edit
+2026-02-18 10:02:56,416 - WARNING - Not enough valid sections to merge Jos1303-edit
+2026-02-18 10:02:56,454 - WARNING - Not enough valid sections to merge Jos1304-no_edit
+2026-02-18 10:02:56,494 - WARNING - Not enough valid sections to merge Jos1304-edit
+2026-02-18 10:02:56,532 - WARNING - Not enough valid sections to merge Jos1305-no_edit
+2026-02-18 10:02:56,572 - WARNING - Not enough valid sections to merge Jos1305-edit
+2026-02-18 10:02:56,611 - WARNING - Not enough valid sections to merge Jos1306-no_edit
+2026-02-18 10:02:56,651 - WARNING - Not enough valid sections to merge Jos1306-edit
+2026-02-18 10:02:56,688 - WARNING - Not enough valid sections to merge Jos1307-no_edit
+2026-02-18 10:02:56,728 - WARNING - Not enough valid sections to merge Jos1307-edit
+2026-02-18 10:02:56,767 - WARNING - Not enough valid sections to merge Jos1308-no_edit
+2026-02-18 10:02:56,806 - WARNING - Not enough valid sections to merge Jos1308-edit
+2026-02-18 10:02:56,844 - WARNING - Not enough valid sections to merge Jos1309-no_edit
+2026-02-18 10:02:56,882 - WARNING - Not enough valid sections to merge Jos1309-edit
+2026-02-18 10:02:56,921 - WARNING - Not enough valid sections to merge Jos1310-no_edit
+2026-02-18 10:02:56,960 - WARNING - Not enough valid sections to merge Jos1310-edit
+2026-02-18 10:02:57,000 - WARNING - Not enough valid sections to merge Jos1311-no_edit
+2026-02-18 10:02:57,038 - WARNING - Not enough valid sections to merge Jos1311-edit
+2026-02-18 10:02:57,078 - WARNING - Not enough valid sections to merge Jos1312-no_edit
+2026-02-18 10:02:57,118 - WARNING - Not enough valid sections to merge Jos1312-edit
+2026-02-18 10:02:57,157 - WARNING - Not enough valid sections to merge Jos1313-no_edit
+2026-02-18 10:02:57,199 - WARNING - Not enough valid sections to merge Jos1313-edit
+2026-02-18 10:02:57,238 - WARNING - Not enough valid sections to merge Jos1314-no_edit
+2026-02-18 10:02:57,278 - WARNING - Not enough valid sections to merge Jos1314-edit
+2026-02-18 10:02:58,039 - WARNING - Not enough valid sections to merge Jos9906-no_edit
+2026-02-18 10:02:58,078 - WARNING - Not enough valid sections to merge Jos9906-edit
+2026-02-18 10:02:58,118 - WARNING - Not enough valid sections to merge Jos9915-no_edit
+2026-02-18 10:02:58,160 - WARNING - Not enough valid sections to merge Jos9915-edit
+2026-02-18 10:02:58,200 - WARNING - Not enough valid sections to merge Jos9922-no_edit
+2026-02-18 10:02:58,240 - WARNING - Not enough valid sections to merge Jos9922-edit
+2026-02-18 10:03:00,429 - WARNING - Skipping corrupt section: jrp_section_pdfs/Mar1004b-no_edit.pdf
+2026-02-18 10:03:05,067 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002c-no_edit.pdf
+2026-02-18 10:03:05,068 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002d-no_edit.pdf
+2026-02-18 10:03:05,315 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002c-edit.pdf
+2026-02-18 10:03:05,316 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002d-edit.pdf
+2026-02-18 10:03:05,527 - WARNING - Not enough valid sections to merge Obr1007-no_edit
+2026-02-18 10:03:05,569 - WARNING - Not enough valid sections to merge Obr1007-edit
+2026-02-18 10:03:14,444 - WARNING - Skipping corrupt section: jrp_section_pdfs/Oke1013e-no_edit.pdf
+2026-02-18 10:03:14,737 - WARNING - Skipping corrupt section: jrp_section_pdfs/Oke1013e-edit.pdf
+2026-02-18 10:03:14,909 - WARNING - Not enough valid sections to merge Oke1014-no_edit
+2026-02-18 10:03:14,948 - WARNING - Not enough valid sections to merge Oke1014-edit
+2026-02-18 10:03:18,695 - WARNING - Not enough valid sections to merge Ort1007-no_edit
+2026-02-18 10:03:18,733 - WARNING - Not enough valid sections to merge Ort1007-edit
+2026-02-18 10:03:18,772 - WARNING - Not enough valid sections to merge Ort1008-no_edit
+2026-02-18 10:03:18,811 - WARNING - Not enough valid sections to merge Ort1008-edit
+2026-02-18 10:03:18,849 - WARNING - Not enough valid sections to merge Ort1009-no_edit
+2026-02-18 10:03:18,886 - WARNING - Not enough valid sections to merge Ort1009-edit
+2026-02-18 10:03:20,149 - WARNING - Skipping corrupt section: jrp_section_pdfs/Rue1002d-no_edit.pdf
+2026-02-18 10:03:20,456 - WARNING - Skipping corrupt section: jrp_section_pdfs/Rue1002d-edit.pdf
+2026-02-18 10:03:39,032 - WARNING - Not enough valid sections to merge Rue1032-no_edit
+2026-02-18 10:03:39,070 - WARNING - Not enough valid sections to merge Rue1032-edit
+2026-02-18 10:03:39,110 - WARNING - Not enough valid sections to merge Rue1033-no_edit
+2026-02-18 10:03:39,148 - WARNING - Not enough valid sections to merge Rue1033-edit
+2026-02-18 10:03:39,186 - WARNING - Not enough valid sections to merge Rue1034-no_edit
+2026-02-18 10:03:39,225 - WARNING - Not enough valid sections to merge Rue1034-edit
+2026-02-18 10:03:39,264 - WARNING - Not enough valid sections to merge Rue1036-no_edit
+2026-02-18 10:03:39,302 - WARNING - Not enough valid sections to merge Rue1036-edit
+2026-02-18 10:03:39,340 - WARNING - Not enough valid sections to merge Rue1037-no_edit
+2026-02-18 10:03:39,378 - WARNING - Not enough valid sections to merge Rue1037-edit
+2026-02-18 10:07:47,959 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001c-no_edit.pdf
+2026-02-18 10:07:48,958 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001c-edit.pdf
+2026-02-18 10:07:50,087 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001d-no_edit.pdf
+2026-02-18 10:07:51,154 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1001d-edit.pdf
+2026-02-18 10:07:52,180 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004b-no_edit.pdf
+2026-02-18 10:07:53,161 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004b-edit.pdf
+2026-02-18 10:07:54,298 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004c-no_edit.pdf
+2026-02-18 10:07:55,454 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004c-edit.pdf
+2026-02-18 10:07:56,435 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004d-no_edit.pdf
+2026-02-18 10:07:57,420 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004d-edit.pdf
+2026-02-18 10:07:58,355 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004e-no_edit.pdf
+2026-02-18 10:07:59,231 - ERROR - Tiny PDF: jrp_section_pdfs/Agr1004e-edit.pdf
+2026-02-18 10:08:00,616 - ERROR - Tiny PDF: jrp_section_pdfs/Ano1001d-no_edit.pdf
+2026-02-18 10:08:01,551 - ERROR - Tiny PDF: jrp_section_pdfs/Ano1001d-edit.pdf
+2026-02-18 10:08:03,666 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3002-no_edit.pdf
+2026-02-18 10:08:04,496 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3002-edit.pdf
+2026-02-18 10:08:07,189 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3091-no_edit.pdf
+2026-02-18 10:08:08,110 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3091-edit.pdf
+2026-02-18 10:08:10,620 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3150-no_edit.pdf
+2026-02-18 10:08:11,445 - ERROR - Tiny PDF: jrp_section_pdfs/Ano3150-edit.pdf
+2026-02-18 10:08:14,153 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008a-no_edit.pdf
+2026-02-18 10:08:15,379 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008a-edit.pdf
+2026-02-18 10:08:17,121 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008b-no_edit.pdf
+2026-02-18 10:08:18,816 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008b-edit.pdf
+2026-02-18 10:08:20,707 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008d-no_edit.pdf
+2026-02-18 10:08:22,463 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008d-edit.pdf
+2026-02-18 10:08:23,612 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008e-no_edit.pdf
+2026-02-18 10:08:24,516 - ERROR - Tiny PDF: jrp_section_pdfs/Bru1008e-edit.pdf
+2026-02-18 10:08:26,019 - ERROR - Tiny PDF: jrp_section_pdfs/Bru2012-no_edit.pdf
+2026-02-18 10:08:27,336 - ERROR - Tiny PDF: jrp_section_pdfs/Bru2012-edit.pdf
+2026-02-18 10:08:29,361 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3008-no_edit.pdf
+2026-02-18 10:08:30,193 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3008-edit.pdf
+2026-02-18 10:08:31,765 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3019-no_edit.pdf
+2026-02-18 10:08:32,688 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3019-edit.pdf
+2026-02-18 10:08:34,895 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3040-no_edit.pdf
+2026-02-18 10:08:35,759 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3040-edit.pdf
+2026-02-18 10:08:36,886 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3044-no_edit.pdf
+2026-02-18 10:08:37,806 - ERROR - Tiny PDF: jrp_section_pdfs/Bus3044-edit.pdf
+2026-02-18 10:08:40,291 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002a-no_edit.pdf
+2026-02-18 10:08:41,133 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002a-edit.pdf
+2026-02-18 10:08:42,013 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002b-no_edit.pdf
+2026-02-18 10:08:42,926 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002b-edit.pdf
+2026-02-18 10:08:44,053 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002e-no_edit.pdf
+2026-02-18 10:08:44,915 - ERROR - Tiny PDF: jrp_section_pdfs/Com1002e-edit.pdf
+2026-02-18 10:08:46,102 - ERROR - Tiny PDF: jrp_section_pdfs/Com3028-no_edit.pdf
+2026-02-18 10:08:47,023 - ERROR - Tiny PDF: jrp_section_pdfs/Com3028-edit.pdf
+2026-02-18 10:08:47,945 - ERROR - Tiny PDF: jrp_section_pdfs/Com3029-no_edit.pdf
+2026-02-18 10:08:48,851 - ERROR - Tiny PDF: jrp_section_pdfs/Com3029-edit.pdf
+2026-02-18 10:08:49,669 - ERROR - Tiny PDF: jrp_section_pdfs/Com3030-no_edit.pdf
+2026-02-18 10:08:50,490 - ERROR - Tiny PDF: jrp_section_pdfs/Com3030-edit.pdf
+2026-02-18 10:08:51,630 - ERROR - Tiny PDF: jrp_section_pdfs/Com3035-no_edit.pdf
+2026-02-18 10:08:52,460 - ERROR - Tiny PDF: jrp_section_pdfs/Com3035-edit.pdf
+2026-02-18 10:08:53,766 - ERROR - Tiny PDF: jrp_section_pdfs/Com3042-no_edit.pdf
+2026-02-18 10:08:54,642 - ERROR - Tiny PDF: jrp_section_pdfs/Com3042-edit.pdf
+2026-02-18 10:08:55,459 - ERROR - Tiny PDF: jrp_section_pdfs/Com3043-no_edit.pdf
+2026-02-18 10:08:56,342 - ERROR - Tiny PDF: jrp_section_pdfs/Com3043-edit.pdf
+2026-02-18 10:08:57,601 - ERROR - Tiny PDF: jrp_section_pdfs/Com3049-no_edit.pdf
+2026-02-18 10:08:58,425 - ERROR - Tiny PDF: jrp_section_pdfs/Com3049-edit.pdf
+2026-02-18 10:09:00,066 - ERROR - Tiny PDF: jrp_section_pdfs/Das1002c-no_edit.pdf
+2026-02-18 10:09:01,284 - ERROR - Tiny PDF: jrp_section_pdfs/Das1002c-edit.pdf
+2026-02-18 10:09:03,408 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1004c-no_edit.pdf
+2026-02-18 10:09:04,431 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1004c-edit.pdf
+2026-02-18 10:09:05,593 - ERROR - Tiny PDF: jrp_section_pdfs/Duf1005c-no_edit.pdf
+2026-02-18 10:09:07,397 - ERROR - Tiny PDF: jrp_section_pdfs/Duf3022-no_edit.pdf
+2026-02-18 10:09:08,183 - ERROR - Tiny PDF: jrp_section_pdfs/Duf3022-edit.pdf
+2026-02-18 10:09:10,780 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102c-no_edit.pdf
+2026-02-18 10:09:11,802 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102c-edit.pdf
+2026-02-18 10:09:12,828 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102d-no_edit.pdf
+2026-02-18 10:09:13,762 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0102d-edit.pdf
+2026-02-18 10:09:14,922 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0103c-no_edit.pdf
+2026-02-18 10:09:15,819 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0103c-edit.pdf
+2026-02-18 10:09:17,026 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0104b-no_edit.pdf
+2026-02-18 10:09:18,050 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0104b-edit.pdf
+2026-02-18 10:09:19,279 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0201b-no_edit.pdf
+2026-02-18 10:09:20,081 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0201b-edit.pdf
+2026-02-18 10:09:21,837 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203c-no_edit.pdf
+2026-02-18 10:09:22,863 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203c-edit.pdf
+2026-02-18 10:09:23,785 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203d-no_edit.pdf
+2026-02-18 10:09:24,708 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0203d-edit.pdf
+2026-02-18 10:09:25,697 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0204b-no_edit.pdf
+2026-02-18 10:09:26,550 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0204b-edit.pdf
+2026-02-18 10:09:29,323 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0402-no_edit.pdf
+2026-02-18 10:09:30,138 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0402-edit.pdf
+2026-02-18 10:09:31,006 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0403-no_edit.pdf
+2026-02-18 10:09:31,855 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0403-edit.pdf
+2026-02-18 10:09:33,135 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0409-no_edit.pdf
+2026-02-18 10:09:33,950 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0409-edit.pdf
+2026-02-18 10:09:35,824 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0501b-edit.pdf
+2026-02-18 10:09:36,981 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0502-no_edit.pdf
+2026-02-18 10:09:37,787 - ERROR - Tiny PDF: jrp_section_pdfs/Gas0502-edit.pdf
+2026-02-18 10:09:39,039 - ERROR - Tiny PDF: jrp_section_pdfs/Jap3001-no_edit.pdf
+2026-02-18 10:09:39,939 - ERROR - Tiny PDF: jrp_section_pdfs/Jap3001-edit.pdf
+2026-02-18 10:09:42,591 - ERROR - Tiny PDF: jrp_section_pdfs/Jos0301b-edit.pdf
+2026-02-18 10:09:48,770 - ERROR - Tiny PDF: jrp_section_pdfs/Jos0703d-no_edit.pdf
+2026-02-18 10:10:08,042 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2605-no_edit.pdf
+2026-02-18 10:10:09,390 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2605-edit.pdf
+2026-02-18 10:10:13,141 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2728-no_edit.pdf
+2026-02-18 10:10:14,037 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2728-edit.pdf
+2026-02-18 10:10:19,490 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2913-no_edit.pdf
+2026-02-18 10:10:20,517 - ERROR - Tiny PDF: jrp_section_pdfs/Jos2913-edit.pdf
+2026-02-18 10:10:26,454 - ERROR - Tiny PDF: jrp_section_pdfs/Mar1004b-no_edit.pdf
+2026-02-18 10:10:37,102 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002c-no_edit.pdf
+2026-02-18 10:10:37,940 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002c-edit.pdf
+2026-02-18 10:10:38,843 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002d-no_edit.pdf
+2026-02-18 10:10:39,647 - ERROR - Tiny PDF: jrp_section_pdfs/Obr1002d-edit.pdf
+2026-02-18 10:10:40,629 - ERROR - Tiny PDF: jrp_section_pdfs/Obr2010-no_edit.pdf
+2026-02-18 10:10:41,487 - ERROR - Tiny PDF: jrp_section_pdfs/Obr2010-edit.pdf
+2026-02-18 10:10:47,581 - ERROR - Tiny PDF: jrp_section_pdfs/Oke1013e-no_edit.pdf
+2026-02-18 10:10:48,378 - ERROR - Tiny PDF: jrp_section_pdfs/Oke1013e-edit.pdf
+2026-02-18 10:10:53,987 - ERROR - Tiny PDF: jrp_section_pdfs/Ort2004-no_edit.pdf
+2026-02-18 10:10:54,839 - ERROR - Tiny PDF: jrp_section_pdfs/Ort2004-edit.pdf
+2026-02-18 10:10:57,275 - ERROR - Tiny PDF: jrp_section_pdfs/Reg2006-no_edit.pdf
+2026-02-18 10:10:58,813 - ERROR - Tiny PDF: jrp_section_pdfs/Rue1002d-no_edit.pdf
+2026-02-18 10:10:59,823 - ERROR - Tiny PDF: jrp_section_pdfs/Rue1002d-edit.pdf
+2026-02-18 10:11:15,188 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001c-no_edit.pdf
+2026-02-18 10:11:15,188 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001d-no_edit.pdf
+2026-02-18 10:11:15,392 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001c-edit.pdf
+2026-02-18 10:11:15,392 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1001d-edit.pdf
+2026-02-18 10:11:15,597 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004b-no_edit.pdf
+2026-02-18 10:11:15,597 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004c-no_edit.pdf
+2026-02-18 10:11:15,597 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004d-no_edit.pdf
+2026-02-18 10:11:15,597 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004e-no_edit.pdf
+2026-02-18 10:11:15,635 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004b-edit.pdf
+2026-02-18 10:11:15,635 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004c-edit.pdf
+2026-02-18 10:11:15,635 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004d-edit.pdf
+2026-02-18 10:11:15,635 - WARNING - Skipping corrupt section: jrp_section_pdfs/Agr1004e-edit.pdf
+2026-02-18 10:11:15,747 - WARNING - Skipping corrupt section: jrp_section_pdfs/Ano1001d-no_edit.pdf
+2026-02-18 10:11:16,022 - WARNING - Skipping corrupt section: jrp_section_pdfs/Ano1001d-edit.pdf
+2026-02-18 10:11:18,674 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008a-no_edit.pdf
+2026-02-18 10:11:18,674 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008b-no_edit.pdf
+2026-02-18 10:11:18,712 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008d-no_edit.pdf
+2026-02-18 10:11:18,713 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008e-no_edit.pdf
+2026-02-18 10:11:18,713 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008a-edit.pdf
+2026-02-18 10:11:18,713 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008b-edit.pdf
+2026-02-18 10:11:18,753 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008d-edit.pdf
+2026-02-18 10:11:18,753 - WARNING - Skipping corrupt section: jrp_section_pdfs/Bru1008e-edit.pdf
+2026-02-18 10:11:19,445 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002a-no_edit.pdf
+2026-02-18 10:11:19,446 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002b-no_edit.pdf
+2026-02-18 10:11:19,524 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002e-no_edit.pdf
+2026-02-18 10:11:19,655 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002a-edit.pdf
+2026-02-18 10:11:19,655 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002b-edit.pdf
+2026-02-18 10:11:19,734 - WARNING - Skipping corrupt section: jrp_section_pdfs/Com1002e-edit.pdf
+2026-02-18 10:11:19,933 - WARNING - Skipping corrupt section: jrp_section_pdfs/Das1002c-no_edit.pdf
+2026-02-18 10:11:20,256 - WARNING - Skipping corrupt section: jrp_section_pdfs/Das1002c-edit.pdf
+2026-02-18 10:11:22,057 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1004c-no_edit.pdf
+2026-02-18 10:11:22,376 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1004c-edit.pdf
+2026-02-18 10:11:22,694 - WARNING - Skipping corrupt section: jrp_section_pdfs/Duf1005c-no_edit.pdf
+2026-02-18 10:11:25,173 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102c-no_edit.pdf
+2026-02-18 10:11:25,173 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102d-no_edit.pdf
+2026-02-18 10:11:25,415 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102c-edit.pdf
+2026-02-18 10:11:25,415 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0102d-edit.pdf
+2026-02-18 10:11:25,661 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0103c-no_edit.pdf
+2026-02-18 10:11:25,971 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0103c-edit.pdf
+2026-02-18 10:11:26,237 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0104b-no_edit.pdf
+2026-02-18 10:11:26,540 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0104b-edit.pdf
+2026-02-18 10:11:26,841 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0201b-no_edit.pdf
+2026-02-18 10:11:27,124 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0201b-edit.pdf
+2026-02-18 10:11:28,168 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203c-no_edit.pdf
+2026-02-18 10:11:28,168 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203d-no_edit.pdf
+2026-02-18 10:11:28,389 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203c-edit.pdf
+2026-02-18 10:11:28,389 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0203d-edit.pdf
+2026-02-18 10:11:28,574 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0204b-no_edit.pdf
+2026-02-18 10:11:28,869 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0204b-edit.pdf
+2026-02-18 10:11:31,830 - WARNING - Skipping corrupt section: jrp_section_pdfs/Gas0501b-edit.pdf
+2026-02-18 10:11:32,500 - WARNING - Skipping corrupt section: jrp_section_pdfs/Jos0301b-edit.pdf
+2026-02-18 10:11:41,914 - WARNING - Skipping corrupt section: jrp_section_pdfs/Jos0703d-no_edit.pdf
+2026-02-18 10:11:55,557 - WARNING - Skipping corrupt section: jrp_section_pdfs/Mar1004b-no_edit.pdf
+2026-02-18 10:12:00,097 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002c-no_edit.pdf
+2026-02-18 10:12:00,097 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002d-no_edit.pdf
+2026-02-18 10:12:00,339 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002c-edit.pdf
+2026-02-18 10:12:00,340 - WARNING - Skipping corrupt section: jrp_section_pdfs/Obr1002d-edit.pdf
+2026-02-18 10:12:09,170 - WARNING - Skipping corrupt section: jrp_section_pdfs/Oke1013e-no_edit.pdf
+2026-02-18 10:12:09,450 - WARNING - Skipping corrupt section: jrp_section_pdfs/Oke1013e-edit.pdf
+2026-02-18 10:12:14,836 - WARNING - Skipping corrupt section: jrp_section_pdfs/Rue1002d-no_edit.pdf
+2026-02-18 10:12:15,132 - WARNING - Skipping corrupt section: jrp_section_pdfs/Rue1002d-edit.pdf
