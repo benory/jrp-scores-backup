@@ -36,41 +36,31 @@ logging.basicConfig(
 missing_or_failed = []
 
 # ==============================
-# WORKS.JSON FETCH
+# WORKS.JSON FETCH + CACHE
 # ==============================
 
 def load_works():
-    """
-    Fetch works.json from GitHub.
-    Cache locally to avoid repeated downloads.
-    """
+
+    old_works = {}
+
+    if os.path.exists(WORKS_CACHE):
+        with open(WORKS_CACHE, "r") as f:
+            old_list = json.load(f)
+            old_works = {w["WORK_ID"]: w for w in old_list}
 
     print("Fetching works.json from GitHub...")
 
-    try:
-        r = requests.get(WORKS_URL, timeout=30)
-        r.raise_for_status()
-        works = r.json()
+    r = requests.get(WORKS_URL, timeout=30)
+    r.raise_for_status()
+    new_list = r.json()
 
-        # Cache locally
-        with open(WORKS_CACHE, "w") as f:
-            json.dump(works, f)
+    new_works = {w["WORK_ID"]: w for w in new_list}
 
-        return works
-
-    except Exception as e:
-        print("⚠ Failed to fetch remote works.json. Trying cache...")
-        logging.error(f"Failed to fetch works.json: {e}")
-
-        if os.path.exists(WORKS_CACHE):
-            with open(WORKS_CACHE, "r") as f:
-                return json.load(f)
-
-        raise RuntimeError("No works.json available (remote or cached).")
+    return old_works, new_works, new_list
 
 
 # ==============================
-# HELPERS
+# PATH HELPERS
 # ==============================
 
 def composer_folder(work_id):
@@ -81,13 +71,17 @@ def composer_folder(work_id):
 
 
 def pdf_path(work_id, version):
-    folder = composer_folder(work_id)
-    return os.path.join(folder, f"{work_id}-{version}.pdf")
+    return os.path.join(
+        composer_folder(work_id),
+        f"{work_id}-{version}.pdf"
+    )
 
 
 def merged_pdf_path(work_base, version):
-    folder = composer_folder(work_base)
-    return os.path.join(folder, f"{work_base}-{version}.pdf")
+    return os.path.join(
+        composer_folder(work_base),
+        f"{work_base}-{version}.pdf"
+    )
 
 
 # ==============================
@@ -95,6 +89,7 @@ def merged_pdf_path(work_base, version):
 # ==============================
 
 def is_valid_pdf(path):
+
     if not os.path.exists(path):
         return False
 
@@ -117,7 +112,7 @@ def is_valid_pdf(path):
 # DOWNLOAD FUNCTION
 # ==============================
 
-def download_pdf(work_id, version):
+def download_pdf(work_id, version, force=False):
 
     if version == "no_edit":
         url = f"{BASE_URL}?a=notationNoEditText&f={work_id}"
@@ -126,12 +121,16 @@ def download_pdf(work_id, version):
 
     output_path = pdf_path(work_id, version)
 
-    if os.path.exists(output_path) and is_valid_pdf(output_path):
+    if (
+        not force
+        and os.path.exists(output_path)
+        and is_valid_pdf(output_path)
+    ):
         print(f"✓ Skipping existing: {output_path}")
         return output_path
 
     if os.path.exists(output_path):
-        print(f"⚠ Removing invalid file: {output_path}")
+        print(f"⚠ Removing old/invalid file: {output_path}")
         os.remove(output_path)
 
     print(f"Downloading {output_path}")
@@ -144,18 +143,10 @@ def download_pdf(work_id, version):
             f.write(r.content)
 
         if os.path.getsize(output_path) < MIN_VALID_SIZE:
-            print(f"❌ Blank/tiny PDF: {output_path}")
-            logging.error(f"Tiny PDF: {output_path}")
-            missing_or_failed.append(output_path)
-            os.remove(output_path)
-            return None
+            raise RuntimeError("PDF too small")
 
         if not is_valid_pdf(output_path):
-            print(f"❌ Corrupt PDF: {output_path}")
-            logging.error(f"Corrupt PDF: {output_path}")
-            missing_or_failed.append(output_path)
-            os.remove(output_path)
-            return None
+            raise RuntimeError("PDF validation failed")
 
         return output_path
 
@@ -178,10 +169,8 @@ def merge_work(section_ids, work_base, version):
 
     for sec in section_ids:
         path = pdf_path(sec, version)
-        if path and is_valid_pdf(path):
+        if is_valid_pdf(path):
             valid_files.append(path)
-        else:
-            logging.warning(f"Skipping corrupt section: {path}")
 
     if len(valid_files) < 2:
         return
@@ -189,7 +178,6 @@ def merge_work(section_ids, work_base, version):
     output_path = merged_pdf_path(work_base, version)
 
     if os.path.exists(output_path) and is_valid_pdf(output_path):
-        print(f"✓ Merged already exists: {output_path}")
         return
 
     print(f"Merging {output_path}")
@@ -201,14 +189,64 @@ def merge_work(section_ids, work_base, version):
         )
 
         if not is_valid_pdf(output_path):
-            logging.error(f"Merged PDF corrupt: {output_path}")
-            os.remove(output_path)
-            missing_or_failed.append(output_path)
+            raise RuntimeError("Merged PDF invalid")
 
-    except subprocess.CalledProcessError:
-        logging.error(f"Merge failed: {work_base}-{version}")
+    except Exception as e:
+        logging.error(f"Merge failed {work_base}-{version}: {e}")
         missing_or_failed.append(output_path)
+        if os.path.exists(output_path):
+            os.remove(output_path)
 
+
+# ==============================
+# METADATA DIFF REPORT
+# ==============================
+
+def report_metadata_differences(old_works, new_works):
+
+    old_ids = set(old_works.keys())
+    new_ids = set(new_works.keys())
+
+    added = sorted(new_ids - old_ids)
+    removed = sorted(old_ids - new_ids)
+
+    updated = []
+    unchanged = []
+
+    for work_id in sorted(old_ids & new_ids):
+        old_date = old_works[work_id].get("DATE_CHANGED", "")
+        new_date = new_works[work_id].get("DATE_CHANGED", "")
+
+        if old_date != new_date:
+            updated.append((work_id, old_date, new_date))
+        else:
+            unchanged.append(work_id)
+
+    print("\n========== METADATA DIFF ==========")
+
+    print(f"Added works:   {len(added)}")
+    print(f"Removed works: {len(removed)}")
+    print(f"Updated works: {len(updated)}")
+    print(f"Unchanged:     {len(unchanged)}")
+
+    if added:
+        print("\nNEW WORKS:")
+        for w in added:
+            print(f"  + {w}")
+
+    if removed:
+        print("\nREMOVED WORKS:")
+        for w in removed:
+            print(f"  - {w}")
+
+    if updated:
+        print("\nUPDATED WORKS:")
+        for w, old_d, new_d in updated:
+            print(f"  * {w}: {old_d} → {new_d}")
+
+    print("===================================\n")
+
+    return added, removed, updated
 
 # ==============================
 # MAIN
@@ -216,36 +254,54 @@ def merge_work(section_ids, work_base, version):
 
 def main():
 
-    works = load_works()
+    old_works, new_works, new_list = load_works()
+
+    
+    added, removed, updated = report_metadata_differences(
+        old_works, new_works
+    )
 
     work_groups = defaultdict(list)
 
-    for work in works:
-        work_id = work["WORK_ID"]
-
-        download_pdf(work_id, "no_edit")
-        download_pdf(work_id, "edit")
+    for work_id, work in new_works.items():
 
         base = work_id[:7]
         work_groups[base].append(work_id)
 
+        force_download = False
+
+        if work_id not in old_works:
+            print(f"NEW work: {work_id}")
+            force_download = True
+        else:
+            old_date = old_works[work_id].get("DATE_CHANGED", "")
+            new_date = work.get("DATE_CHANGED", "")
+
+            if old_date != new_date:
+                force_download = True
+
+        download_pdf(work_id, "no_edit", force=force_download)
+        download_pdf(work_id, "edit", force=force_download)
+
+    # Merge multi-section works
     for base, sections in work_groups.items():
 
         if len(sections) < 2:
             continue
-
-        print(f"\nProcessing multi-section work {base}")
 
         sections.sort()
 
         merge_work(sections, base, "no_edit")
         merge_work(sections, base, "edit")
 
+    # Update cache
+    with open(WORKS_CACHE, "w") as f:
+        json.dump(new_list, f, indent=2)
+
     if missing_or_failed:
         with open("missing_or_failed.txt", "w") as f:
             for item in missing_or_failed:
                 f.write(item + "\n")
-
         print("\n⚠ Some files failed. See missing_or_failed.txt")
     else:
         print("\n✓ All files processed successfully.")
