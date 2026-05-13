@@ -50,9 +50,18 @@ def load_works():
 
     print("Fetching works.json from GitHub...")
 
-    r = requests.get(WORKS_URL, timeout=30)
-    r.raise_for_status()
-    new_list = r.json()
+    try:
+        result = subprocess.run(
+            ["curl", "-L", "--fail", "--silent", "--show-error", WORKS_URL],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            timeout=30,
+            check=True
+        )
+        new_list = json.loads(result.stdout)
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError(f"curl failed while fetching works.json: {e.stderr}") from e
 
     new_works = {w["WORK_ID"]: w for w in new_list}
 

@@ -10,8 +10,6 @@
 ../scores/Agr/Agr1004d-edit.pdf
 ../scores/Agr/Agr1004e-no_edit.pdf
 ../scores/Agr/Agr1004e-edit.pdf
-../scores/Ano/Ano1001d-no_edit.pdf
-../scores/Ano/Ano1001d-edit.pdf
 ../scores/Ano/Ano3002-no_edit.pdf
 ../scores/Ano/Ano3002-edit.pdf
 ../scores/Ano/Ano3091-no_edit.pdf
